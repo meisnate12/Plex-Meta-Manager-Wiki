@@ -8,7 +8,7 @@ radarr:
   url: http://192.168.1.12:32788
   token: ################################
   version: v3
-  quality_profile_id: HD-1080p
+  quality_profile: HD-1080p
   root_folder_path: S:/Movies
   add: true
   search: false
